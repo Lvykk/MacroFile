@@ -1,0 +1,16 @@
+PODS:
+  - MacroFile (0.1.0)
+
+DEPENDENCIES:
+  - MacroFile (from `../`)
+
+EXTERNAL SOURCES:
+  MacroFile:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MacroFile: 65df0538366304e13f04687574ca600679753f35
+
+PODFILE CHECKSUM: e17ed85693fa3580aed77464ef74a4e26d3281a8
+
+COCOAPODS: 1.5.3

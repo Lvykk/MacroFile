@@ -22,7 +22,7 @@ pod 'MacroFile'
 
 ## Author
 
-kkk901029@163.com, kkk901029@163.com
+kkk901029@163.com
 
 ## License
 

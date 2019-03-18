@@ -1,0 +1,22 @@
+{
+  "name": "MacroFile",
+  "version": "0.1.0",
+  "summary": "A short description of MacroFile.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/kkk901029@163.com/MacroFile",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kkk901029@163.com": "kkk901029@163.com"
+  },
+  "source": {
+    "git": "https://github.com/kkk901029@163.com/MacroFile.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MacroFile/Classes/**/*"
+}
